@@ -1,6 +1,6 @@
-***Política de Privacidad de ByteBot***
+***Política de Privacidad de ByteBot Team***
 
-<kbd>**Esta Política de Privacidad describe cómo recopilamos, utilizamos y protegemos la información personal del usuario cuando utiliza el bot ByteBot ("el Bot") operado por DiscordByteBot ("Nosotros", "Nos" o "Nuestro"). Lea atentamente esta Política de Privacidad antes de utilizar el Bot.**<kbd>
+<kbd>**Esta Política de Privacidad describe cómo recopilamos, utilizamos y protegemos la información personal del usuario cuando utiliza el bot ByteBot o ByteSecurity ("el Bot") operado por ByteBot Team ("Nosotros", "Nos" o "Nuestro"). Lea atentamente esta Política de Privacidad antes de utilizar el Bot.**<kbd>
 
 **1. Información que recopilamos**
 > 1.1. Recopilamos información personal proporcionada por el usuario de forma voluntaria al interactuar con el Bot, como su nombre de usuario de Discord y cualquier dato que decida compartir con el Bot.
